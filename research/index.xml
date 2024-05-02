@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>POST on Edna West</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in POST on Edna West</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Wed, 01 May 2024 09:37:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic 1</title>
+      <link>http://localhost:1313/research/topic/getting-started/</link>
+      <pubDate>Wed, 01 May 2024 09:37:55 +0200</pubDate>
+      <guid>http://localhost:1313/research/topic/getting-started/</guid>
+      <description>&lt;h2 id=&#34;topic-1-commons-governance-and-rural-land-development&#34;&gt;Topic 1: Commons Governance and Rural Land Development&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio Definition</title>
+      <link>http://localhost:1313/research/topic/portfolio-definition/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      <guid>http://localhost:1313/research/topic/portfolio-definition/</guid>
+      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/portfolio-example.png&#34;&#xA;    alt=&#34;Example of Portfolio page&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Example of Portfolio page&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Archetypes management</title>
+      <link>http://localhost:1313/research/topic/archetypes/</link>
+      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
+      <guid>http://localhost:1313/research/topic/archetypes/</guid>
+      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Config File</title>
+      <link>http://localhost:1313/research/topic/config-file/</link>
+      <pubDate>Sat, 20 Apr 2019 19:12:12 +0100</pubDate>
+      <guid>http://localhost:1313/research/topic/config-file/</guid>
+      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;&#xA;&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>http://localhost:1313/research/topic/pages/</link>
+      <pubDate>Sat, 20 Apr 2019 19:12:12 +0100</pubDate>
+      <guid>http://localhost:1313/research/topic/pages/</guid>
+      <description>&lt;p&gt;Variables you can use in pages&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Graph image</title>
+      <link>http://localhost:1313/research/topic/define-specific-og-image/</link>
+      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      <guid>http://localhost:1313/research/topic/define-specific-og-image/</guid>
+      <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.&#xA;For example, see content/_index.md page:&#xA;images: [&amp;#34;/images/sample.jpg&amp;#34;] </description>
+    </item>
+  </channel>
+</rss>
